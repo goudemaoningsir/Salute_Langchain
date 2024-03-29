@@ -7,8 +7,18 @@
 - **章节二：LCEL**
   - [起步](sections/chapters11/3-1.start.md)
   - [接口](sections/chapters11/3-2.接口.md)
-- **核心模块**
-  - 模型 I/O
-    - [快速入门](sections/chapters11/4-1-0.start.md)
-  	- [基本概念](sections/chapters11/4-1-1.基本概念.md)
-  	- [Prompts](sections/chapters11/4-1-2.prompts.md)
+- **章节三：模型 I/O**
+  - [Quickstart](sections/chapters3/1.quickstart.md)
+  - [Concepts](sections/chapters3/2.concepts.md)
+  - **Prompts**
+    - [Quickstart](sections/chapters3/3.prompts/1.quickstart.md)
+    - [Concepts](sections/chapters3/3.prompts/2.composition.md)
+    - [Example selectors](sections/chapters3/3.prompts/3.selectorTypes.md)
+    - [Few-shot prompt templates](sections/chapters3/3.prompts/4.fewshot.md)
+    - [Few-shot examples for chat models](sections/chapters3/3.prompts/5.fewshotchat.md)
+    - [Types of `MessagePromptTemplate`](sections/chapters3/3.prompts/6.message.md)
+    - [Partial prompt templates](sections/chapters3/3.prompts/7.ppt.md)
+    - [pipeline](sections/chapters3/3.prompts/8.pipeline.md)
+  - **Chat Models**
+  - **LLMs**
+  - **Output Parsers**
