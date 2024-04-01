@@ -20,5 +20,20 @@
     - [Partial prompt templates](sections/chapters3/3.prompts/7.ppt.md)
     - [pipeline](sections/chapters3/3.prompts/8.pipeline.md)
   - **Chat Models**
+    - [Quickstart](sections/chapters3/4.chatModels/1.quickstart.md)
+    - [函数调用](sections/chapters3/4.chatModels/2.function_calling.md)
+    - [缓存](sections/chapters3/4.chatModels/3.caching.md)
+    - [自定义聊天模型](sections/chapters3/4.chatModels/4.customChatModel.md)
+    - [对数概率](sections/chapters3/4.chatModels/5.logProbabilities.md)
+    - [Streaming](sections/chapters3/4.chatModels/6.streaming.md)
+    - [跟踪token使用情况](sections/chapters3/4.chatModels/7.token.md)
   - **LLMs**
+    - [Quickstart](sections/chapters3/5.LLMs/1.quickstart.md)
+    - [自定义llm](sections/chapters3/5.LLMs/2.custom.md)
+    - [缓存](sections/chapters3/5.LLMs/3.caching.md)
+    - [Streaming](sections/chapters3/5.LLMs/4.Streaming.md)
+    - [跟踪token使用情况](sections/chapters3/5.LLMs/5.token.md)
   - **Output Parsers**
+    - [Quickstart](sections/chapters3/6.outputparsers/1.quickstart.md)
+    - [自定义输出解析器](sections/chapters3/6.outputparsers/2.custom.md)
+    - [解析器类型](sections/chapters3/6.outputparsers/3.parser_type.md)
